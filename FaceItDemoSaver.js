@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Добавляет кнопку прямой скачки демо (минуя баги сайта)
-// @author       You
+// @author       xennony
 // @match        https://www.faceit.com/*/cs2/room/*
 // @match        https://www.faceit.com/*/csgo/room/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=faceit.com
