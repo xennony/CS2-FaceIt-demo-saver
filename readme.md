@@ -15,7 +15,7 @@ It works differently:
 2. Directly queries the public FACEIT API  
 3. Retrieves a direct download link and starts the download
 
-## ⚙️ Installation
+## Installation
 
 You need a userscript manager extension.
 
@@ -26,7 +26,7 @@ You need a userscript manager extension.
    * Copy the code from the `script.js` file in this repository/
    * Paste it into the editor and press `Ctrl + S` to save
 
-## 🚀 How to use
+## How to use
 1. Open the lobby of any finished FACEIT match (CS2)
 2. Click watch demo button
 3. Place the unzipped file in the path `game\csgo`
