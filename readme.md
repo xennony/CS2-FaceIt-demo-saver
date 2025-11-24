@@ -23,7 +23,7 @@ You need a userscript manager extension.
 
 2. **Add the script:**
    * Click the Tampermonkey icon → “Create a new script”
-   * Copy the code from the `script.js` file in this repository/
+   * Copy the code from the `FaceItDemoSaver.js` file in this repository/
    * Paste it into the editor and press `Ctrl + S` to save
 
 ## How to use
